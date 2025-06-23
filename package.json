@@ -1,0 +1,17 @@
+{
+  "name": "sst-mono",
+  "type": "module",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "catalog": {
+      "sst": "3.17.6",
+      "typescript": "5.8.3"
+    }
+  },
+  "devDependencies": {
+    "prettier": "^3.6.0"
+  }
+}

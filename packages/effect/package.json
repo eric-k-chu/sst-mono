@@ -1,0 +1,13 @@
+{
+  "name": "effect",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "effect": "^3.16.8",
+    "sst": "3.17.6"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.150",
+    "typescript": "catalog:"
+  }
+}
